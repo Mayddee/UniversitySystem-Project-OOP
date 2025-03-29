@@ -37,11 +37,6 @@ Ensure you have the following installed on your system:
    java -cp bin com.university.Main
    ```
 
-## Running Tests
-To execute unit tests, use the following command:
-```sh
-java -jar junit-platform-console-standalone.jar --class-path bin --select-package com.university.tests
-```
 
 ## Usage Guide
 1. **Launch the application** and select an option from the menu.
